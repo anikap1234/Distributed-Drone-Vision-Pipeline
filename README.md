@@ -64,8 +64,8 @@ The system consists of four key components:
 | Message Broker | Apache Kafka |
 | Kafka API | Confluent Kafka |
 | Image Processing | OpenCV / Pillow / NumPy |
-| Web Framework | Flask or FastAPI |
-| Database (optional) | SQLite or Redis |
+| Web Framework | Flask |
+| Database (optional) | SQLite |
 | Dashboard | HTML/CSS + Flask Templates |
 
 ---
