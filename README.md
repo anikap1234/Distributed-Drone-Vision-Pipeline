@@ -1,4 +1,3 @@
-# Image-Processing-Pipeline-Using-Kafka
 #  Distributed Image Processing Pipeline with Kafka
 
 ##  Overview
