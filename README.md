@@ -1,8 +1,8 @@
-#  Distributed Image Processing Pipeline with Kafka
+#  Distributed Drone Image Processing Pipeline with Kafka
 
 ##  Overview
 
-This project implements a **Distributed Image Processing Pipeline** that leverages **Apache Kafka** for asynchronous communication between a **Master Node** and multiple **Worker Nodes**.  
+This project implements a **Distributed Drone Image Processing Pipeline** that leverages **Apache Kafka** for asynchronous communication between a **Master Node** and multiple **Worker Nodes**.  
 
 It enables **parallel**, **scalable**, and **fault-tolerant** image processing by splitting a large image into smaller tiles, distributing them to multiple workers for transformation (e.g., grayscale, blur), and then reconstructing the processed tiles back into a final image.
 
